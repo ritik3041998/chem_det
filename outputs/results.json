@@ -1,0 +1,173 @@
+{
+  "public_library": {
+    "spectra": 9785,
+    "classes": 2889
+  },
+  "ours": {
+    "scans": 733,
+    "labelled": 560,
+    "chemicals": 25
+  },
+  "cross_instrument": {
+    "cosine": {
+      "n": 71,
+      "top1": 0.19718309859154928,
+      "top5": 0.22535211267605634,
+      "balanced_top1": 0.16666666666666666,
+      "per_class": {
+        "Acetone": 1.0,
+        "Ethyl Alcohol": 0.0,
+        "Isopropyl Alcohol": 0.0,
+        "Potassium Nitrate": 0.0,
+        "Sodium Nitrate": 0.0,
+        "Sulphur": 0.0
+      }
+    },
+    "pretrained": {
+      "n": 71,
+      "top1": 0.5633802816901409,
+      "top5": 0.8028169014084507,
+      "balanced_top1": 0.3275252525252525,
+      "per_class": {
+        "Acetone": 1.0,
+        "Ethyl Alcohol": 0.0,
+        "Isopropyl Alcohol": 0.0,
+        "Potassium Nitrate": 0.5151515151515151,
+        "Sodium Nitrate": 0.45,
+        "Sulphur": 0.0
+      }
+    }
+  },
+  "cv": {
+    "folds": 5,
+    "untestable_single_session": [
+      "Ethyl Alcohol",
+      "Isopropyl Alcohol",
+      "Nitrobenzene",
+      "Nitromethane",
+      "Potassium Carbonate",
+      "Sulphur"
+    ],
+    "cosine": {
+      "n": 553,
+      "top1": 0.9023508137432188,
+      "top5": 0.9783001808318263,
+      "balanced_top1": 0.7639199068323507,
+      "per_class": {
+        "Acetone": 1.0,
+        "Ammonium Nitrate": 0.76,
+        "Ethylene Diamine": 0.25,
+        "H2O2": 0.0,
+        "HMX": 0.8333333333333334,
+        "Hexamine": 0.9714285714285714,
+        "Naphthalene": 0.9888888888888889,
+        "PETN": 0.8,
+        "PNBA": 0.9104477611940298,
+        "Potassium Chlorate": 0.375,
+        "Potassium Nitrate": 0.7272727272727273,
+        "RDX": 0.8571428571428571,
+        "Sodium Azide": 0.5714285714285714,
+        "Sodium Chlorate": 1.0,
+        "Sodium Nitrate": 0.8,
+        "TATB": 0.8,
+        "TNB": 1.0,
+        "TNT": 0.875,
+        "Urea": 0.994535519125683
+      }
+    },
+    "pretrained": {
+      "n": 553,
+      "top1": 0.864376130198915,
+      "top5": 0.9403254972875226,
+      "balanced_top1": 0.6259893879102411,
+      "per_class": {
+        "Acetone": 1.0,
+        "Ammonium Nitrate": 0.68,
+        "Ethylene Diamine": 0.0,
+        "H2O2": 0.0,
+        "HMX": 0.8333333333333334,
+        "Hexamine": 1.0,
+        "Naphthalene": 1.0,
+        "PETN": 0.0,
+        "PNBA": 0.9253731343283582,
+        "Potassium Chlorate": 0.125,
+        "Potassium Nitrate": 0.7878787878787878,
+        "RDX": 1.0,
+        "Sodium Azide": 0.0,
+        "Sodium Chlorate": 0.875,
+        "Sodium Nitrate": 0.9,
+        "TATB": 0.8,
+        "TNB": 1.0,
+        "TNT": 0.0,
+        "Urea": 0.9672131147540983
+      }
+    },
+    "finetuned": {
+      "n": 553,
+      "top1": 0.9005424954792043,
+      "top5": 0.9746835443037974,
+      "balanced_top1": 0.7441202905499843,
+      "per_class": {
+        "Acetone": 1.0,
+        "Ammonium Nitrate": 0.56,
+        "Ethylene Diamine": 0.0,
+        "H2O2": 0.0,
+        "HMX": 1.0,
+        "Hexamine": 0.9714285714285714,
+        "Naphthalene": 1.0,
+        "PETN": 1.0,
+        "PNBA": 0.9402985074626866,
+        "Potassium Chlorate": 0.375,
+        "Potassium Nitrate": 0.7272727272727273,
+        "RDX": 1.0,
+        "Sodium Azide": 0.7142857142857143,
+        "Sodium Chlorate": 0.875,
+        "Sodium Nitrate": 0.8,
+        "TATB": 0.8,
+        "TNB": 1.0,
+        "TNT": 0.375,
+        "Urea": 1.0
+      }
+    }
+  },
+  "not_in_lib": {
+    "n": 173,
+    "best_match_counts": {
+      "Urea": 47,
+      "Potassium Nitrate": 29,
+      "PNBA": 19,
+      "Wurtzite": 8,
+      "Chabazite-K": 8,
+      "Ethylene Diamine": 7,
+      "Acetone": 7,
+      "Naphthalene": 6,
+      "Mullite": 4,
+      "Ammonium Nitrate": 3,
+      "Sphalerite": 3,
+      "Plumbonacrite": 3,
+      "Sodium Azide": 2,
+      "Shomiokite-(Y)": 2,
+      "Cerussite": 2,
+      "Furutobeite": 2,
+      "Lead": 2,
+      "Acetonitrile": 2,
+      "Hexamine": 1,
+      "Pseudowollastonite": 1,
+      "TATB": 1,
+      "HMX": 1,
+      "Polybasite": 1,
+      "Miersite": 1,
+      "Parisite-(La)": 1,
+      "Tundrite-(Ce)": 1,
+      "Burbankite": 1,
+      "Graphite": 1,
+      "Clausthalite": 1,
+      "Benjaminite": 1,
+      "Nickeline": 1,
+      "Glaucodot": 1,
+      "Villiaumite": 1,
+      "Strontioruizite": 1,
+      "Ethyl Alcohol": 1
+    }
+  }
+}

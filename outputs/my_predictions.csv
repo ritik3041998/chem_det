@@ -1,0 +1,6 @@
+﻿scan,predicted,confidence,label_in_file,top3
+0,Potassium Nitrate,0.999,Ammonium Nitrate,Potassium Nitrate | Ammonium Nitrate | Nitrobarite
+3,PNBA,1.0,PNBA,PNBA | Nitrobenzene | Lammerite
+100,Naphthalene,1.0,Naphthalene,Naphthalene | Toluene | Avogadrite
+500,Urea,0.995,Urea,Urea | Ethylene Diamine | Anhydrite
+700,Acetone,0.998,Acetone,Acetone | Moissanite | Parisite-(Ce)

@@ -1,0 +1,554 @@
+﻿raman_row,true,cosine,pretrained,finetuned,finetuned_score,finetuned_top5
+0,Ammonium Nitrate,Ammonium Nitrate,Ammonium Nitrate,Potassium Nitrate,5.86,Potassium Nitrate | Ammonium Nitrate | Shilovite | Nitrobarite | Cerussite
+1,Ammonium Nitrate,Ammonium Nitrate,Ammonium Nitrate,Potassium Nitrate,5.68,Potassium Nitrate | Ammonium Nitrate | Shilovite | Nitrobarite | Cerussite
+2,Ammonium Nitrate,Ammonium Nitrate,Ammonium Nitrate,Potassium Nitrate,5.79,Potassium Nitrate | Ammonium Nitrate | Shilovite | Nitrobarite | Shomiokite-(Y)
+3,PNBA,PNBA,PNBA,PNBA,4.43,PNBA | Nitrobenzene | Lammerite | Raspite | organic_37
+6,Urea,Urea,Urea,Urea,2.69,Urea | Gypsum | β-carotene | Glauberite | Starkeyite
+12,Potassium Nitrate,Ammonium Nitrate,Potassium Nitrate,Ammonium Nitrate,6.46,Ammonium Nitrate | Potassium Nitrate | Nitrobarite | Shilovite | Sodium Nitrate
+13,Potassium Nitrate,Ammonium Nitrate,Potassium Nitrate,Ammonium Nitrate,6.49,Ammonium Nitrate | Potassium Nitrate | Shilovite | Nitrobarite | Likasite
+14,Naphthalene,Urea,Naphthalene,Naphthalene,6.31,Naphthalene | Clinoatacamite | organic_179 | Clausthalite | Halite
+15,Naphthalene,Naphthalene,Naphthalene,Naphthalene,6.78,Naphthalene | Clinoatacamite | Avogadrite | Toluene | organic_179
+16,Naphthalene,Naphthalene,Naphthalene,Naphthalene,6.72,Naphthalene | Clinoatacamite | Toluene | Avogadrite | Franciscanite
+17,Naphthalene,Naphthalene,Naphthalene,Naphthalene,6.79,Naphthalene | Clinoatacamite | Avogadrite | Mercury | Toluene
+18,Naphthalene,Naphthalene,Naphthalene,Naphthalene,6.53,Naphthalene | Clinoatacamite | Mercury | Toluene | Avogadrite
+19,Naphthalene,Naphthalene,Naphthalene,Naphthalene,6.63,Naphthalene | Clinoatacamite | Avogadrite | Toluene | Franciscanite
+20,Naphthalene,Naphthalene,Naphthalene,Naphthalene,6.61,Naphthalene | Clinoatacamite | organic_179 | Franciscanite | Avogadrite
+21,Naphthalene,Naphthalene,Naphthalene,Naphthalene,7.19,Naphthalene | Clinoatacamite | Avogadrite | Toluene | Mercury
+22,Naphthalene,Naphthalene,Naphthalene,Naphthalene,6.89,Naphthalene | Clinoatacamite | Toluene | Avogadrite | Franciscanite
+23,Naphthalene,Naphthalene,Naphthalene,Naphthalene,6.83,Naphthalene | Clinoatacamite | Franciscanite | Avogadrite | Mercury
+24,Naphthalene,Naphthalene,Naphthalene,Naphthalene,7.05,Naphthalene | Clinoatacamite | Mercury | Avogadrite | Toluene
+26,Naphthalene,Naphthalene,Naphthalene,Naphthalene,6.25,Naphthalene | Urea | organic_257 | Sulfoborite | Clinoatacamite
+27,Naphthalene,Naphthalene,Naphthalene,Naphthalene,6.34,Naphthalene | Clinoatacamite | Toluene | Urea | Avogadrite
+28,Naphthalene,Naphthalene,Naphthalene,Naphthalene,6.52,Naphthalene | Toluene | Clinoatacamite | Urea | Avogadrite
+29,Naphthalene,Naphthalene,Naphthalene,Naphthalene,6.3,Naphthalene | Toluene | Urea | Clinoatacamite | Avogadrite
+30,Naphthalene,Naphthalene,Naphthalene,Naphthalene,6.4,Naphthalene | Toluene | Clinoatacamite | Urea | Avogadrite
+32,Naphthalene,Naphthalene,Naphthalene,Naphthalene,7.27,Naphthalene | Clinoatacamite | Toluene | Franciscanite | Avogadrite
+33,Naphthalene,Naphthalene,Naphthalene,Naphthalene,6.21,Naphthalene | Clinoatacamite | Mercury | Chabazite-K | organic_179
+34,Naphthalene,Naphthalene,Naphthalene,Naphthalene,7.02,Naphthalene | Clinoatacamite | Toluene | Avogadrite | Franciscanite
+35,Naphthalene,Naphthalene,Naphthalene,Naphthalene,7.07,Naphthalene | Clinoatacamite | Toluene | Avogadrite | Mercury
+36,Naphthalene,Naphthalene,Naphthalene,Naphthalene,6.96,Naphthalene | Clinoatacamite | Toluene | Avogadrite | Mercury
+37,Naphthalene,Naphthalene,Naphthalene,Naphthalene,7.21,Naphthalene | Clinoatacamite | Toluene | Franciscanite | Avogadrite
+38,Naphthalene,Naphthalene,Naphthalene,Naphthalene,6.73,Naphthalene | Clinoatacamite | Avogadrite | Franciscanite | Mercury
+40,Naphthalene,Naphthalene,Naphthalene,Naphthalene,6.86,Naphthalene | Avogadrite | Clinoatacamite | Toluene | Ethylene Diamine
+42,Naphthalene,Naphthalene,Naphthalene,Naphthalene,6.64,Naphthalene | Toluene | Avogadrite | Franciscanite | Urea
+43,Naphthalene,Naphthalene,Naphthalene,Naphthalene,6.38,Naphthalene | Franciscanite | Avogadrite | Urea | Toluene
+44,Naphthalene,Naphthalene,Naphthalene,Naphthalene,6.55,Naphthalene | Toluene | Franciscanite | Urea | Avogadrite
+45,Naphthalene,Naphthalene,Naphthalene,Naphthalene,6.57,Naphthalene | Franciscanite | Urea | Avogadrite | Toluene
+46,Naphthalene,Naphthalene,Naphthalene,Naphthalene,6.76,Naphthalene | Urea | Avogadrite | Toluene | Franciscanite
+47,Naphthalene,Naphthalene,Naphthalene,Naphthalene,6.84,Naphthalene | Toluene | Franciscanite | organic_179 | Avogadrite
+48,Naphthalene,Naphthalene,Naphthalene,Naphthalene,6.54,Naphthalene | Toluene | Franciscanite | Anhydrite | Avogadrite
+49,Naphthalene,Naphthalene,Naphthalene,Naphthalene,6.72,Naphthalene | Avogadrite | Urea | Franciscanite | Toluene
+50,Naphthalene,Naphthalene,Naphthalene,Naphthalene,6.84,Naphthalene | Urea | Franciscanite | Toluene | Avogadrite
+51,Naphthalene,Naphthalene,Naphthalene,Naphthalene,6.84,Naphthalene | Franciscanite | Toluene | Urea | Avogadrite
+52,Naphthalene,Naphthalene,Naphthalene,Naphthalene,6.51,Naphthalene | Avogadrite | Urea | Franciscanite | organic_259
+53,Naphthalene,Naphthalene,Naphthalene,Naphthalene,6.57,Naphthalene | Franciscanite | Urea | Toluene | organic_179
+54,Naphthalene,Naphthalene,Naphthalene,Naphthalene,6.57,Naphthalene | Toluene | Urea | organic_179 | Franciscanite
+55,Naphthalene,Naphthalene,Naphthalene,Naphthalene,6.75,Naphthalene | Toluene | Urea | Franciscanite | Avogadrite
+56,Naphthalene,Naphthalene,Naphthalene,Naphthalene,6.86,Naphthalene | Franciscanite | Urea | Toluene | Avogadrite
+57,Naphthalene,Naphthalene,Naphthalene,Naphthalene,6.31,Naphthalene | Urea | Toluene | Franciscanite | Ethylene Diamine
+58,Naphthalene,Naphthalene,Naphthalene,Naphthalene,5.87,Naphthalene | Toluene | Franciscanite | Avogadrite | organic_179
+59,Naphthalene,Naphthalene,Naphthalene,Naphthalene,6.36,Naphthalene | Franciscanite | Urea | Toluene | Avogadrite
+60,Naphthalene,Naphthalene,Naphthalene,Naphthalene,6.57,Naphthalene | Toluene | Avogadrite | Urea | Franciscanite
+62,PNBA,PNBA,PNBA,PNBA,7.34,PNBA | Nitrobenzene | organic_103 | organic_37 | Ringwoodite
+66,PNBA,PNBA,PNBA,PNBA,7.68,PNBA | Nitrobenzene | organic_37 | organic_103 | Ringwoodite
+67,PNBA,PNBA,PNBA,PNBA,7.73,PNBA | Nitrobenzene | organic_37 | organic_103 | Ringwoodite
+69,PNBA,PNBA,PNBA,PNBA,7.55,PNBA | Nitrobenzene | organic_37 | organic_103 | Rutherfordine
+70,PNBA,PNBA,PNBA,PNBA,7.61,PNBA | Nitrobenzene | organic_37 | organic_103 | Rutherfordine
+71,PNBA,PNBA,PNBA,PNBA,7.56,PNBA | Nitrobenzene | organic_37 | organic_103 | Rutherfordine
+74,PNBA,PNBA,PNBA,PNBA,7.63,PNBA | Nitrobenzene | organic_37 | organic_103 | Ringwoodite
+75,PNBA,PNBA,PNBA,PNBA,7.4,PNBA | Nitrobenzene | organic_37 | organic_103 | Arisite-(La)
+77,Hexamine,Hexamine,Hexamine,Hexamine,9.49,Hexamine | Potassium Nitrate | Cerussite | Moissanite | Cancrinite
+78,Hexamine,Hexamine,Hexamine,Hexamine,9.0,Hexamine | Potassium Nitrate | Cerussite | Cancrinite | Moissanite
+79,Hexamine,Hexamine,Hexamine,Hexamine,9.59,Hexamine | Potassium Nitrate | Stichtite | Cerussite | Cancrinite
+80,Hexamine,Hexamine,Hexamine,Hexamine,9.67,Hexamine | Potassium Nitrate | Cerussite | Stichtite | Moissanite
+81,Hexamine,Hexamine,Hexamine,Hexamine,9.8,Hexamine | Potassium Nitrate | Cerussite | Cancrinite | Moissanite
+82,Hexamine,Hexamine,Hexamine,Hexamine,9.41,Hexamine | Potassium Nitrate | Cancrinite | Cerussite | Moissanite
+83,Hexamine,Hexamine,Hexamine,Hexamine,9.37,Hexamine | Potassium Nitrate | Cancrinite | Stichtite | Cerussite
+84,Hexamine,Hexamine,Hexamine,Hexamine,9.25,Hexamine | Potassium Nitrate | Cancrinite | Stichtite | Cerussite
+85,Hexamine,Hexamine,Hexamine,Hexamine,9.15,Hexamine | Potassium Nitrate | Moissanite | Stichtite | Cerussite
+87,Hexamine,Hexamine,Hexamine,Hexamine,9.3,Hexamine | Moissanite | Salesite | Chabazite-K | Cancrinite
+88,Hexamine,Hexamine,Hexamine,Hexamine,9.12,Hexamine | Moissanite | Chabazite-K | Salesite | Stichtite
+89,Hexamine,Hexamine,Hexamine,Hexamine,9.21,Hexamine | Chabazite-K | Moissanite | Cancrinite | Salesite
+90,Hexamine,Hexamine,Hexamine,Hexamine,9.16,Hexamine | Moissanite | Chabazite-K | Salesite | Cancrinite
+91,Hexamine,Hexamine,Hexamine,Hexamine,9.18,Hexamine | Chabazite-K | Moissanite | Salesite | Cancrinite
+92,Naphthalene,Naphthalene,Naphthalene,Naphthalene,8.73,Naphthalene | Toluene | lactalbumin | Avogadrite | Franciscanite
+93,Naphthalene,Naphthalene,Naphthalene,Naphthalene,9.03,Naphthalene | Toluene | lactalbumin | Avogadrite | α-chymotrypsinogen a (type ii)
+94,Naphthalene,Naphthalene,Naphthalene,Naphthalene,8.96,Naphthalene | Toluene | lactalbumin | Avogadrite | α-chymotrypsinogen a (type ii)
+95,Naphthalene,Naphthalene,Naphthalene,Naphthalene,9.11,Naphthalene | Toluene | lactalbumin | α-chymotrypsinogen a (type ii) | Avogadrite
+96,Naphthalene,Naphthalene,Naphthalene,Naphthalene,9.12,Naphthalene | Toluene | lactalbumin | α-chymotrypsinogen a (type ii) | Avogadrite
+97,Naphthalene,Naphthalene,Naphthalene,Naphthalene,9.3,Naphthalene | Toluene | lactalbumin | Franciscanite | Avogadrite
+98,Naphthalene,Naphthalene,Naphthalene,Naphthalene,9.16,Naphthalene | Toluene | lactalbumin | α-chymotrypsinogen a (type ii) | Avogadrite
+99,Naphthalene,Naphthalene,Naphthalene,Naphthalene,9.31,Naphthalene | Toluene | lactalbumin | Idrialite | α-chymotrypsinogen a (type ii)
+100,Naphthalene,Naphthalene,Naphthalene,Naphthalene,9.34,Naphthalene | Toluene | lactalbumin | α-chymotrypsinogen a (type ii) | Avogadrite
+101,Naphthalene,Naphthalene,Naphthalene,Naphthalene,9.39,Naphthalene | Toluene | lactalbumin | α-chymotrypsinogen a (type ii) | Idrialite
+102,Naphthalene,Naphthalene,Naphthalene,Naphthalene,9.45,Naphthalene | Toluene | lactalbumin | α-chymotrypsinogen a (type ii) | Idrialite
+103,Naphthalene,Naphthalene,Naphthalene,Naphthalene,9.49,Naphthalene | Toluene | lactalbumin | Idrialite | α-chymotrypsinogen a (type ii)
+104,Naphthalene,Naphthalene,Naphthalene,Naphthalene,9.45,Naphthalene | Toluene | lactalbumin | α-chymotrypsinogen a (type ii) | Idrialite
+106,Naphthalene,Naphthalene,Naphthalene,Naphthalene,9.12,Naphthalene | lactalbumin | Toluene | Idrialite | α-chymotrypsinogen a (type ii)
+107,Naphthalene,Naphthalene,Naphthalene,Naphthalene,9.16,Naphthalene | lactalbumin | Toluene | Idrialite | α-chymotrypsinogen a (type ii)
+110,Urea,Urea,Urea,Urea,5.8,Urea | Gypsum | Despujolsite | β-carotene | Strontiohurlbutite
+111,Urea,Urea,Urea,Urea,6.36,Urea | Gypsum | Beryllonite | Celestine | Despujolsite
+113,Urea,Urea,Urea,Urea,5.71,Urea | Ethylene Diamine | Despujolsite | Strontiohurlbutite | Gypsum
+114,Urea,Urea,Urea,Urea,5.48,Urea | Ethylene Diamine | Strontiohurlbutite | Despujolsite | Gypsum
+115,Urea,Urea,Urea,Urea,5.39,Urea | Ethylene Diamine | Gypsum | Strontiohurlbutite | Despujolsite
+116,Urea,Urea,Urea,Urea,5.36,Urea | Ethylene Diamine | Despujolsite | Gypsum | Strontiohurlbutite
+117,Urea,Urea,Urea,Urea,5.62,Urea | Ethylene Diamine | Strontiohurlbutite | Gypsum | Despujolsite
+118,Urea,Urea,Urea,Urea,5.66,Urea | Ethylene Diamine | Gypsum | Despujolsite | Strontiohurlbutite
+119,Urea,Urea,Urea,Urea,5.44,Urea | Ethylene Diamine | Gypsum | Wurtzite | Beryllonite
+121,Urea,Urea,Urea,Urea,5.82,Urea | Gypsum | Ethylene Diamine | Beryllonite | Anhydrite
+123,Urea,Urea,Urea,Urea,4.84,Urea | Strontiohurlbutite | Ethylene Diamine | Gypsum | Zircon
+124,Urea,Urea,Urea,Urea,5.04,Urea | Ethylene Diamine | Gypsum | Leightonite | Zircon
+125,Urea,Urea,Urea,Urea,4.87,Urea | Ethylene Diamine | Gypsum | Anhydrite | Strontiohurlbutite
+127,Urea,Urea,Urea,Urea,5.05,Urea | Ethylene Diamine | Gypsum | Anhydrite | Hedenbergite
+129,Urea,Urea,Urea,Urea,5.89,Urea | Despujolsite | β-carotene | Strontiohurlbutite | Gypsum
+130,Urea,Urea,Urea,Urea,6.16,Urea | Despujolsite | Strontiohurlbutite | Gypsum | Beryllonite
+131,PNBA,PNBA,PNBA,PNBA,6.87,PNBA | Nitrobenzene | organic_37 | Ringwoodite | Raspite
+132,PNBA,PNBA,PNBA,PNBA,7.74,PNBA | Nitrobenzene | organic_37 | organic_103 | Ringwoodite
+133,PNBA,PNBA,PNBA,PNBA,7.78,PNBA | Nitrobenzene | organic_37 | organic_103 | Ringwoodite
+134,PNBA,PNBA,PNBA,PNBA,7.81,PNBA | Nitrobenzene | organic_37 | organic_103 | Ringwoodite
+135,PNBA,PNBA,PNBA,PNBA,7.85,PNBA | Nitrobenzene | organic_37 | organic_103 | Ringwoodite
+136,PNBA,PNBA,PNBA,PNBA,7.83,PNBA | Nitrobenzene | organic_37 | organic_103 | Ringwoodite
+137,PNBA,PNBA,PNBA,PNBA,7.84,PNBA | Nitrobenzene | organic_37 | organic_103 | Ringwoodite
+138,PNBA,PNBA,PNBA,PNBA,7.92,PNBA | Nitrobenzene | organic_37 | organic_103 | Ringwoodite
+139,PNBA,PNBA,PNBA,PNBA,7.87,PNBA | Nitrobenzene | organic_37 | organic_103 | Ringwoodite
+140,PNBA,PNBA,PNBA,PNBA,7.91,PNBA | Nitrobenzene | organic_37 | organic_103 | Ringwoodite
+141,Naphthalene,Naphthalene,Naphthalene,Naphthalene,7.84,Naphthalene | Toluene | lactalbumin | α-chymotrypsinogen a (type ii) | d-(+)-xylose
+142,Naphthalene,Naphthalene,Naphthalene,Naphthalene,8.09,Naphthalene | Toluene | lactalbumin | α-chymotrypsinogen a (type ii) | d-(+)-xylose
+143,Naphthalene,Naphthalene,Naphthalene,Naphthalene,8.08,Naphthalene | Toluene | lactalbumin | α-chymotrypsinogen a (type ii) | d-(+)-xylose
+144,Naphthalene,Naphthalene,Naphthalene,Naphthalene,7.99,Naphthalene | Toluene | lactalbumin | α-chymotrypsinogen a (type ii) | Idrialite
+145,Naphthalene,Naphthalene,Naphthalene,Naphthalene,8.08,Naphthalene | Toluene | lactalbumin | α-chymotrypsinogen a (type ii) | Idrialite
+146,Naphthalene,Naphthalene,Naphthalene,Naphthalene,8.07,Naphthalene | Toluene | lactalbumin | α-chymotrypsinogen a (type ii) | Idrialite
+147,Naphthalene,Naphthalene,Naphthalene,Naphthalene,8.14,Naphthalene | Toluene | lactalbumin | α-chymotrypsinogen a (type ii) | Idrialite
+148,Naphthalene,Naphthalene,Naphthalene,Naphthalene,8.34,Naphthalene | Toluene | lactalbumin | α-chymotrypsinogen a (type ii) | Idrialite
+149,Naphthalene,Naphthalene,Naphthalene,Naphthalene,8.23,Naphthalene | Toluene | lactalbumin | α-chymotrypsinogen a (type ii) | Idrialite
+150,Naphthalene,Naphthalene,Naphthalene,Naphthalene,8.33,Naphthalene | Toluene | lactalbumin | α-chymotrypsinogen a (type ii) | Idrialite
+151,Hexamine,Hexamine,Hexamine,Hexamine,8.86,Hexamine | Potassium Nitrate | Moissanite | Cerussite | Salesite
+152,Hexamine,Hexamine,Hexamine,Hexamine,9.48,Hexamine | Potassium Nitrate | Cerussite | Salesite | Moissanite
+153,Hexamine,Hexamine,Hexamine,Hexamine,9.2,Hexamine | Potassium Nitrate | Moissanite | Cancrinite | Cerussite
+154,Hexamine,Hexamine,Hexamine,Hexamine,9.2,Hexamine | Potassium Nitrate | Moissanite | Cerussite | Salesite
+155,Hexamine,Hexamine,Hexamine,Hexamine,9.04,Hexamine | Potassium Nitrate | Moissanite | Salesite | Diaspore
+156,Hexamine,Hexamine,Hexamine,Hexamine,8.78,Hexamine | Potassium Nitrate | Moissanite | Cancrinite | Toluene
+157,Hexamine,Hexamine,Hexamine,Hexamine,8.59,Hexamine | Potassium Nitrate | Moissanite | Toluene | Diaspore
+158,Hexamine,Hexamine,Hexamine,Hexamine,8.61,Hexamine | Potassium Nitrate | Moissanite | Cyclohexane | Salesite
+159,Hexamine,Hexamine,Hexamine,Hexamine,8.73,Hexamine | Potassium Nitrate | Moissanite | Toluene | Cancrinite
+160,Hexamine,Hexamine,Hexamine,Hexamine,8.35,Hexamine | Potassium Nitrate | Moissanite | Sulfoborite | Toluene
+163,Potassium Nitrate,Hexamine,Hexamine,Hexamine,10.02,Hexamine | Moissanite | Cerussite | Chabazite-K | Cancrinite
+169,Urea,Urea,Urea,Urea,4.31,Urea | Ethylene Diamine | Anhydrite | Despujolsite | Gypsum
+179,Potassium Nitrate,Potassium Nitrate,Potassium Nitrate,Potassium Nitrate,6.14,Potassium Nitrate | Ammonium Nitrate | Sodium Nitrate | Shomiokite-(Y) | Cerussite
+180,Potassium Nitrate,Potassium Nitrate,Potassium Nitrate,Potassium Nitrate,6.05,Potassium Nitrate | Ammonium Nitrate | Sodium Nitrate | Shomiokite-(Y) | Nitrobarite
+181,Ammonium Nitrate,Hydrocerussite,Ammonium Nitrate,Ammonium Nitrate,6.65,Ammonium Nitrate | Potassium Nitrate | Nitrobarite | Shilovite | Gerhardtite
+182,RDX,RDX,RDX,RDX,6.4,RDX | Rutherfordine | Whewellite | Volborthite | Chromatite
+184,PNBA,PNBA,PNBA,Nitrobenzene,6.61,Nitrobenzene | PNBA | Ammonium Nitrate | stearic acid | Magnesiumstearate
+185,PNBA,PNBA,PNBA,PNBA,4.79,PNBA | Nitrobenzene | Ammonium Nitrate | Shomiokite-(Y) | Potassium Nitrate
+186,PNBA,PNBA,PNBA,PNBA,4.77,PNBA | Nitrobenzene | Ammonium Nitrate | Shomiokite-(Y) | Potassium Nitrate
+188,Potassium Nitrate,Potassium Nitrate,Potassium Nitrate,Ammonium Nitrate,3.9,Ammonium Nitrate | Potassium Nitrate | Shilovite | Sodium Nitrate | Shomiokite-(Y)
+189,Potassium Nitrate,Potassium Nitrate,Potassium Nitrate,Ammonium Nitrate,4.32,Ammonium Nitrate | Potassium Nitrate | Shomiokite-(Y) | Shilovite | Sodium Nitrate
+190,HMX,HMX,Effenbergerite,HMX,4.77,HMX | Wurtzite | H2O2 | Dresserite | Ferrobustamite
+192,H2O2,HMX,Effenbergerite,Effenbergerite,3.03,Effenbergerite | Sphalerite | Fluornatromicrolite | Brownmillerite | Dresserite
+193,HMX,HMX,HMX,HMX,6.78,HMX | Liebenbergite | organic_113 | Effenbergerite | Wurtzite
+194,HMX,HMX,HMX,HMX,6.96,HMX | Liebenbergite | organic_113 | Chondrodite | Effenbergerite
+195,HMX,HMX,HMX,HMX,6.94,HMX | Liebenbergite | organic_113 | Wurtzite | Effenbergerite
+196,PNBA,PETN,PNBA,PNBA,5.91,PNBA | Nitrobenzene | Arisite-(La) | Shomiokite-(Y) | organic_10
+197,Potassium Nitrate,Potassium Nitrate,Potassium Nitrate,Ammonium Nitrate,6.18,Ammonium Nitrate | Potassium Nitrate | Sodium Nitrate | Nitrobarite | Shomiokite-(Y)
+198,Potassium Nitrate,Potassium Nitrate,Potassium Nitrate,Ammonium Nitrate,6.07,Ammonium Nitrate | Potassium Nitrate | Sodium Nitrate | Shomiokite-(Y) | Nitrobarite
+201,Sodium Azide,TNT,Effenbergerite,TNT,3.78,TNT | Sodium Azide | Sphalerite | Fluornatromicrolite | Brownmillerite
+205,PNBA,PNBA,PNBA,PNBA,6.81,PNBA | Nitrobenzene | organic_37 | Rutherfordine | Hydromagnesite
+206,PNBA,PNBA,PNBA,PNBA,6.55,PNBA | Nitrobenzene | organic_37 | Rutherfordine | Hydromagnesite
+207,PNBA,PNBA,PNBA,PNBA,6.87,PNBA | Nitrobenzene | organic_37 | Rutherfordine | Huntite
+208,PNBA,PNBA,PNBA,PNBA,6.66,PNBA | Nitrobenzene | organic_37 | Rutherfordine | Hydromagnesite
+209,Urea,Urea,Urea,Urea,4.82,Urea | Ethylene Diamine | Anhydrite | Kalicinite | Gypsum
+210,Urea,Urea,Urea,Urea,4.86,Urea | Ethylene Diamine | Gypsum | Kalicinite | Anhydrite
+211,Urea,Urea,Urea,Urea,5.08,Urea | Ethylene Diamine | Anhydrite | Gypsum | Despujolsite
+212,Urea,Urea,Urea,Urea,5.09,Urea | Ethylene Diamine | Gypsum | Despujolsite | Anhydrite
+213,Urea,Urea,Urea,Urea,5.19,Urea | Ethylene Diamine | Anhydrite | Kalicinite | Strontiohurlbutite
+214,Urea,Urea,Urea,Urea,5.1,Urea | Ethylene Diamine | Gypsum | Anhydrite | Despujolsite
+215,Urea,Urea,Urea,Urea,5.2,Urea | Ethylene Diamine | Despujolsite | Gypsum | Kalicinite
+216,Hexamine,Potassium Nitrate,Hexamine,Potassium Nitrate,10.06,Potassium Nitrate | Hexamine | Stichtite | Cerussite | Cyclohexane
+217,Hexamine,Hexamine,Hexamine,Hexamine,9.63,Hexamine | Potassium Nitrate | Stichtite | Cerussite | Chabazite-K
+218,Hexamine,Hexamine,Hexamine,Hexamine,9.35,Hexamine | Potassium Nitrate | Stichtite | Cerussite | Cyclohexane
+219,Hexamine,Hexamine,Hexamine,Hexamine,9.27,Hexamine | Potassium Nitrate | Stichtite | Chabazite-K | Cyclohexane
+220,Hexamine,Hexamine,Hexamine,Hexamine,9.06,Hexamine | Potassium Nitrate | Stichtite | Cyclohexane | Chabazite-K
+221,Naphthalene,Naphthalene,Naphthalene,Naphthalene,7.54,Naphthalene | Toluene | lactalbumin | organic_257 | organic_161
+222,Naphthalene,Naphthalene,Naphthalene,Naphthalene,7.71,Naphthalene | Toluene | lactalbumin | organic_257 | organic_161
+223,Naphthalene,Naphthalene,Naphthalene,Naphthalene,7.86,Naphthalene | Toluene | lactalbumin | organic_161 | organic_257
+224,Naphthalene,Naphthalene,Naphthalene,Naphthalene,8.09,Naphthalene | Toluene | lactalbumin | organic_161 | organic_257
+225,PNBA,PNBA,PNBA,PNBA,7.7,PNBA | Nitrobenzene | organic_37 | organic_103 | Rutherfordine
+226,PNBA,PNBA,PNBA,PNBA,7.75,PNBA | Nitrobenzene | organic_37 | organic_103 | Rutherfordine
+227,PNBA,PNBA,PNBA,PNBA,7.9,PNBA | Nitrobenzene | organic_37 | organic_103 | Rutherfordine
+228,PNBA,PNBA,PNBA,PNBA,7.89,PNBA | Nitrobenzene | organic_37 | organic_103 | Rutherfordine
+229,PNBA,PNBA,PNBA,PNBA,8.05,PNBA | Nitrobenzene | organic_37 | organic_103 | Rutherfordine
+230,Urea,Urea,Urea,Urea,6.05,Urea | Despujolsite | Strontiohurlbutite | Kalicinite | Gypsum
+231,Urea,Urea,Urea,Urea,6.12,Urea | Despujolsite | Kalicinite | Gypsum | Leucophanite
+232,Urea,Urea,Urea,Urea,6.13,Urea | Despujolsite | Strontiohurlbutite | Gypsum | Kalicinite
+233,Urea,Urea,Urea,Urea,6.17,Urea | Despujolsite | Strontiohurlbutite | Gypsum | Kalicinite
+234,Urea,Urea,Urea,Urea,6.21,Urea | Despujolsite | Strontiohurlbutite | Leucophanite | Gypsum
+235,Naphthalene,Naphthalene,Naphthalene,Naphthalene,8.2,Naphthalene | Toluene | lactalbumin | Avogadrite | organic_161
+236,Naphthalene,Naphthalene,Naphthalene,Naphthalene,8.26,Naphthalene | Toluene | lactalbumin | Avogadrite | organic_161
+237,Naphthalene,Naphthalene,Naphthalene,Naphthalene,8.3,Naphthalene | Toluene | lactalbumin | organic_161 | Avogadrite
+238,Naphthalene,Naphthalene,Naphthalene,Naphthalene,8.48,Naphthalene | Toluene | lactalbumin | organic_161 | Avogadrite
+239,Naphthalene,Naphthalene,Naphthalene,Naphthalene,8.59,Naphthalene | Toluene | lactalbumin | organic_161 | Avogadrite
+240,PNBA,PNBA,PNBA,PNBA,8.62,PNBA | Nitrobenzene | organic_37 | organic_103 | Ringwoodite
+241,PNBA,PNBA,PNBA,PNBA,8.68,PNBA | Nitrobenzene | organic_103 | organic_37 | Ringwoodite
+242,PNBA,PNBA,PNBA,PNBA,8.66,PNBA | Nitrobenzene | organic_37 | organic_103 | Ringwoodite
+243,PNBA,PNBA,PNBA,PNBA,8.7,PNBA | Nitrobenzene | organic_103 | organic_37 | Ringwoodite
+244,PNBA,PNBA,PNBA,PNBA,8.69,PNBA | Nitrobenzene | organic_103 | organic_37 | Ringwoodite
+245,PNBA,PNBA,PNBA,PNBA,8.69,PNBA | Nitrobenzene | organic_103 | organic_37 | Ringwoodite
+246,PETN,PETN,Wurtzite,PETN,3.21,PETN | Tantalite-(Mn) | Rutherfordine | Wurtzite | Columbite-(Fe)
+247,PETN,PETN,Wurtzite,PETN,2.91,PETN | Tantalite-(Mn) | Rutherfordine | Columbite-(Fe) | Raspite
+248,PETN,PETN,Wurtzite,PETN,2.71,PETN | Tantalite-(Mn) | Rutherfordine | Columbite-(Fe) | Raspite
+249,PETN,PETN,Wurtzite,PETN,2.48,PETN | Tantalite-(Mn) | Rutherfordine | Columbite-(Fe) | Raspite
+250,PETN,PETN,Wurtzite,PETN,2.1,PETN | Tantalite-(Mn) | Columbite-(Fe) | Raspite | Rutherfordine
+251,PETN,PETN,Wurtzite,PETN,1.97,PETN | Tantalite-(Mn) | Columbite-(Fe) | Raspite | Rutherfordine
+252,PETN,PETN,Wurtzite,PETN,2.15,PETN | Tantalite-(Mn) | Columbite-(Fe) | Raspite | Rutherfordine
+253,PETN,PETN,Wurtzite,PETN,1.84,PETN | Tantalite-(Mn) | Columbite-(Fe) | Raspite | Rutherfordine
+254,Urea,Urea,Urea,Urea,4.57,Urea | Ethylene Diamine | Anhydrite | Gypsum | Despujolsite
+255,Urea,Urea,Urea,Urea,4.62,Urea | Ethylene Diamine | Anhydrite | Despujolsite | Gypsum
+256,Urea,Urea,Urea,Urea,4.59,Urea | Ethylene Diamine | Anhydrite | Gypsum | Strontiohurlbutite
+257,Urea,Urea,Urea,Urea,4.5,Urea | Ethylene Diamine | Despujolsite | Gypsum | Anhydrite
+258,Hexamine,Hexamine,Hexamine,Hexamine,9.85,Hexamine | Moissanite | Cancrinite | Stichtite | Chabazite-K
+259,Hexamine,Hexamine,Hexamine,Hexamine,9.79,Hexamine | Stichtite | Moissanite | Chabazite-K | Cancrinite
+260,Potassium Chlorate,Sodium Chlorate,Sodium Chlorate,Sodium Chlorate,6.25,Sodium Chlorate | Potassium Chlorate | Scotlandite | Creedite | Gravegliaite
+261,Potassium Chlorate,Sodium Chlorate,Sodium Chlorate,Sodium Chlorate,6.39,Sodium Chlorate | Potassium Chlorate | Scotlandite | Creedite | Ferrinatrite
+262,Potassium Chlorate,Sodium Chlorate,Sodium Chlorate,Sodium Chlorate,6.46,Sodium Chlorate | Potassium Chlorate | Scotlandite | Creedite | Ferrinatrite
+263,Potassium Chlorate,Sodium Chlorate,Sodium Chlorate,Sodium Chlorate,6.57,Sodium Chlorate | Potassium Chlorate | Scotlandite | Creedite | Ferrinatrite
+264,Sodium Nitrate,Sodium Nitrate,Sodium Nitrate,Sodium Nitrate,4.97,Sodium Nitrate | Potassium Carbonate | Gaylussite | Strontianite | Pirssonite
+265,Sodium Nitrate,Sodium Nitrate,Sodium Nitrate,Sodium Nitrate,5.0,Sodium Nitrate | Potassium Carbonate | Gaylussite | Strontianite | Pirssonite
+266,Sodium Nitrate,Sodium Nitrate,Sodium Nitrate,Sodium Nitrate,5.0,Sodium Nitrate | Potassium Carbonate | Gaylussite | Strontianite | Pirssonite
+267,Sodium Nitrate,Sodium Nitrate,Sodium Nitrate,Sodium Nitrate,4.96,Sodium Nitrate | Potassium Carbonate | Gaylussite | Strontianite | Pirssonite
+268,Sodium Nitrate,Sodium Nitrate,Sodium Nitrate,Sodium Nitrate,4.82,Sodium Nitrate | Potassium Carbonate | Gaylussite | Strontianite | Pirssonite
+269,Sodium Nitrate,Sodium Nitrate,Sodium Nitrate,Sodium Nitrate,4.77,Sodium Nitrate | Potassium Carbonate | Gaylussite | Strontianite | Pirssonite
+270,Sodium Nitrate,Sodium Nitrate,Sodium Nitrate,Sodium Nitrate,4.77,Sodium Nitrate | Potassium Carbonate | Gaylussite | Pirssonite | Strontianite
+271,Sodium Nitrate,Sodium Nitrate,Sodium Nitrate,Sodium Nitrate,4.71,Sodium Nitrate | Potassium Carbonate | Gaylussite | Pirssonite | Strontianite
+272,Sodium Nitrate,Sodium Nitrate,Sodium Nitrate,Sodium Nitrate,4.73,Sodium Nitrate | Potassium Carbonate | Gaylussite | Pirssonite | Strontianite
+273,Sodium Nitrate,Sodium Nitrate,Sodium Nitrate,Sodium Nitrate,4.79,Sodium Nitrate | Potassium Carbonate | Gaylussite | Pirssonite | Strontianite
+274,Sodium Nitrate,Sodium Nitrate,Sodium Nitrate,Sodium Nitrate,4.72,Sodium Nitrate | Potassium Carbonate | Gaylussite | Pirssonite | Strontianite
+277,Ammonium Nitrate,Ammonium Nitrate,Ammonium Nitrate,Ammonium Nitrate,5.57,Ammonium Nitrate | Potassium Nitrate | Nitrobarite | Sodium Nitrate | Shomiokite-(Y)
+278,Ammonium Nitrate,Ammonium Nitrate,Ammonium Nitrate,Ammonium Nitrate,5.7,Ammonium Nitrate | Potassium Nitrate | Nitrobarite | Sodium Nitrate | Shomiokite-(Y)
+279,Ammonium Nitrate,Ammonium Nitrate,Ammonium Nitrate,Ammonium Nitrate,5.78,Ammonium Nitrate | Potassium Nitrate | Nitrobarite | Sodium Nitrate | Shomiokite-(Y)
+280,Ammonium Nitrate,Ammonium Nitrate,Ammonium Nitrate,Ammonium Nitrate,5.72,Ammonium Nitrate | Potassium Nitrate | Nitrobarite | Sodium Nitrate | Shomiokite-(Y)
+281,Ammonium Nitrate,Ammonium Nitrate,Ammonium Nitrate,Ammonium Nitrate,4.7,Ammonium Nitrate | Potassium Nitrate | Nitrobarite | Sodium Nitrate | Plumbonacrite
+282,Ammonium Nitrate,Ammonium Nitrate,Ammonium Nitrate,Ammonium Nitrate,5.73,Ammonium Nitrate | Potassium Nitrate | Nitrobarite | Sodium Nitrate | Shomiokite-(Y)
+284,TATB,TATB,TATB,TATB,5.44,TATB | H2O2 | Volborthite | Wurtzite | Clinohedrite
+285,RDX,RDX,RDX,RDX,6.27,RDX | Rutherfordine | Whewellite | Volborthite | Ethylene Diamine
+286,RDX,RDX,RDX,RDX,6.21,RDX | Rutherfordine | Volborthite | Whewellite | Magnesiumstearate
+287,RDX,RDX,RDX,RDX,6.09,RDX | Volborthite | Whewellite | Rutherfordine | Magnesiumstearate
+288,RDX,RDX,RDX,RDX,6.27,RDX | Volborthite | Rutherfordine | Whewellite | Legrandite
+289,RDX,RDX,RDX,RDX,6.24,RDX | Volborthite | Rutherfordine | Whewellite | Magnesiumstearate
+290,RDX,RDX,RDX,RDX,6.29,RDX | Volborthite | Whewellite | Rutherfordine | Magnesiumstearate
+291,Potassium Nitrate,Potassium Nitrate,Potassium Nitrate,Potassium Nitrate,6.38,Potassium Nitrate | Sodium Nitrate | Ammonium Nitrate | Shomiokite-(Y) | Nitrobarite
+292,Potassium Nitrate,Potassium Nitrate,Potassium Nitrate,Potassium Nitrate,6.39,Potassium Nitrate | Sodium Nitrate | Ammonium Nitrate | Shomiokite-(Y) | Nitrobarite
+293,Potassium Nitrate,Potassium Nitrate,Potassium Nitrate,Potassium Nitrate,6.31,Potassium Nitrate | Ammonium Nitrate | Sodium Nitrate | Shomiokite-(Y) | Nitrobarite
+294,Potassium Nitrate,Potassium Nitrate,Potassium Nitrate,Potassium Nitrate,6.26,Potassium Nitrate | Ammonium Nitrate | Sodium Nitrate | Shomiokite-(Y) | Nitrobarite
+295,Potassium Nitrate,Potassium Nitrate,Potassium Nitrate,Potassium Nitrate,6.26,Potassium Nitrate | Ammonium Nitrate | Sodium Nitrate | Shomiokite-(Y) | Nitrobarite
+297,Sodium Nitrate,Potassium Carbonate,Potassium Carbonate,Potassium Carbonate,4.79,Potassium Carbonate | Sodium Nitrate | Gaylussite | Pirssonite | Lecoqite-(Y)
+298,Sodium Nitrate,Potassium Carbonate,Potassium Carbonate,Potassium Carbonate,4.85,Potassium Carbonate | Sodium Nitrate | Gaylussite | Lecoqite-(Y) | Pirssonite
+300,Sodium Nitrate,Potassium Carbonate,Sodium Nitrate,Potassium Carbonate,5.58,Potassium Carbonate | Sodium Nitrate | Gaylussite | Pirssonite | Strontianite
+301,Sodium Nitrate,Potassium Carbonate,Sodium Nitrate,Potassium Carbonate,5.78,Potassium Carbonate | Sodium Nitrate | Gaylussite | Pirssonite | Strontianite
+302,Urea,Urea,Urea,Urea,4.92,Urea | Ethylene Diamine | Wurtzite | Clinohedrite | Ferrobustamite
+303,Urea,Urea,Urea,Urea,4.96,Urea | Ethylene Diamine | Wurtzite | Clinohedrite | Ferrobustamite
+304,Urea,Urea,Urea,Urea,4.78,Urea | Ethylene Diamine | Wurtzite | Clinohedrite | Ferrobustamite
+305,Urea,Urea,Urea,Urea,5.02,Urea | Ethylene Diamine | Wurtzite | Clinohedrite | Furutobeite
+306,Urea,Urea,Urea,Urea,4.75,Urea | Ethylene Diamine | Wurtzite | Clinohedrite | Ferrobustamite
+307,Urea,Urea,Urea,Urea,4.89,Urea | Ethylene Diamine | Wurtzite | Clinohedrite | Furutobeite
+308,Urea,Urea,Urea,Urea,4.93,Urea | Ethylene Diamine | Wurtzite | Clinohedrite | Furutobeite
+309,PNBA,PNBA,Nitrobenzene,PNBA,7.04,PNBA | Nitrobenzene | Ammonium Nitrate | stearic acid | Arisite-(La)
+313,Sodium Chlorate,Sodium Chlorate,Potassium Chlorate,Potassium Chlorate,5.71,Potassium Chlorate | Sodium Chlorate | Scotlandite | Mascagnite | Creedite
+314,Potassium Chlorate,Urea,Ammonioalunite,Scotlandite,1.86,Scotlandite | Clinoatacamite | Gravegliaite | Covellite | Polybasite
+315,Potassium Chlorate,Potassium Chlorate,Potassium Chlorate,Potassium Chlorate,1.26,Potassium Chlorate | Sodium Chlorate | Gravegliaite | Sarcopside | Scotlandite
+316,Sodium Chlorate,Sodium Chlorate,Sodium Chlorate,Sodium Chlorate,4.54,Sodium Chlorate | Potassium Chlorate | Scotlandite | Creedite | Lithiophilite
+317,Sodium Chlorate,Sodium Chlorate,Sodium Chlorate,Sodium Chlorate,5.6,Sodium Chlorate | Potassium Chlorate | Scotlandite | Creedite | Gravegliaite
+318,Sodium Chlorate,Sodium Chlorate,Sodium Chlorate,Sodium Chlorate,5.62,Sodium Chlorate | Potassium Chlorate | Scotlandite | Creedite | Gravegliaite
+319,Sodium Chlorate,Sodium Chlorate,Sodium Chlorate,Sodium Chlorate,5.51,Sodium Chlorate | Potassium Chlorate | Scotlandite | Creedite | Gravegliaite
+320,Sodium Chlorate,Sodium Chlorate,Sodium Chlorate,Sodium Chlorate,5.6,Sodium Chlorate | Potassium Chlorate | Scotlandite | Creedite | Gravegliaite
+321,Sodium Chlorate,Sodium Chlorate,Sodium Chlorate,Sodium Chlorate,5.71,Sodium Chlorate | Potassium Chlorate | Scotlandite | Creedite | Gravegliaite
+322,Sodium Chlorate,Sodium Chlorate,Sodium Chlorate,Sodium Chlorate,5.77,Sodium Chlorate | Potassium Chlorate | Scotlandite | Creedite | Sarcopside
+323,Urea,Urea,Urea,Urea,4.12,Urea | Ethylene Diamine | Anhydrite | Sphalerite | Dresserite
+324,Urea,Urea,Urea,Urea,4.32,Urea | Ethylene Diamine | Sphalerite | Gypsum | Dresserite
+325,Urea,Urea,Urea,Urea,4.19,Urea | Ethylene Diamine | Anhydrite | Sphalerite | Gypsum
+326,Ammonium Nitrate,Ammonium Nitrate,Ammonium Nitrate,Ammonium Nitrate,6.21,Ammonium Nitrate | Potassium Nitrate | Nitrobarite | Shilovite | Gerhardtite
+327,Urea,Urea,Wurtzite,Urea,3.62,Urea | Ethylene Diamine | Wurtzite | Furutobeite | Halite
+328,Urea,Urea,Urea,Urea,4.3,Urea | Ethylene Diamine | Anhydrite | Wurtzite | Halite
+329,Urea,Urea,Urea,Urea,4.81,Urea | Ethylene Diamine | Wurtzite | Clausthalite | Despujolsite
+330,Ethylene Diamine,Ethylene Diamine,Wurtzite,Wurtzite,5.26,Wurtzite | Ferrierite-K | Amber | Montmorillonite | Artesunate
+332,Urea,Urea,Urea,Urea,4.65,Urea | Ethylene Diamine | Wurtzite | Clinohedrite | Ferrobustamite
+333,Urea,Urea,Urea,Urea,4.48,Urea | Ethylene Diamine | Wurtzite | Clinohedrite | Ferrobustamite
+334,Urea,Urea,Urea,Urea,4.7,Urea | Ethylene Diamine | Wurtzite | Clinohedrite | Ferrobustamite
+335,Urea,Urea,Urea,Urea,4.98,Urea | Ethylene Diamine | Wurtzite | Clinohedrite | Furutobeite
+336,Urea,Urea,Urea,Urea,4.91,Urea | Ethylene Diamine | Wurtzite | Clinohedrite | Ferrobustamite
+337,Urea,Urea,Urea,Urea,4.86,Urea | Ethylene Diamine | Wurtzite | Clinohedrite | Ferrobustamite
+338,Urea,Urea,Urea,Urea,5.06,Urea | Ethylene Diamine | Wurtzite | Clinohedrite | Furutobeite
+339,Urea,Urea,Urea,Urea,4.98,Urea | Ethylene Diamine | Wurtzite | Clinohedrite | Furutobeite
+340,Urea,Urea,Urea,Urea,5.11,Urea | Ethylene Diamine | Wurtzite | Clinohedrite | Ferrobustamite
+341,Urea,Urea,Urea,Urea,4.93,Urea | Ethylene Diamine | Wurtzite | Clinohedrite | Furutobeite
+342,Urea,Urea,Urea,Urea,5.06,Urea | Ethylene Diamine | Wurtzite | Clinohedrite | Furutobeite
+343,Urea,Urea,Urea,Urea,4.96,Urea | Ethylene Diamine | Wurtzite | Clinohedrite | Furutobeite
+344,Urea,Urea,Urea,Urea,5.09,Urea | Ethylene Diamine | Wurtzite | Clinohedrite | Ferrobustamite
+345,Urea,Urea,Urea,Urea,4.67,Urea | Ethylene Diamine | Despujolsite | Dresserite | Wurtzite
+346,Urea,Urea,Urea,Urea,4.11,Urea | Ethylene Diamine | Gypsum | Anhydrite | Sphalerite
+347,PNBA,PNBA,PNBA,PNBA,7.44,PNBA | Nitrobenzene | Ammonium Nitrate | Shomiokite-(Y) | stearic acid
+348,PNBA,PNBA,PNBA,PNBA,6.96,PNBA | Nitrobenzene | Ammonium Nitrate | Shomiokite-(Y) | stearic acid
+350,PNBA,Nitrobenzene,Nitrobenzene,Nitrobenzene,7.54,Nitrobenzene | PNBA | Ammonium Nitrate | stearic acid | Magnesiumstearate
+355,Urea,Urea,Urea,Urea,4.43,Urea | Ethylene Diamine | Wurtzite | Clinohedrite | Furutobeite
+356,Urea,Urea,Urea,Urea,4.68,Urea | Ethylene Diamine | Wurtzite | Clinohedrite | Furutobeite
+358,PNBA,PNBA,Nitrobenzene,Nitrobenzene,7.23,Nitrobenzene | PNBA | Ammonium Nitrate | stearic acid | Magnesiumstearate
+359,Potassium Nitrate,Potassium Nitrate,Potassium Nitrate,Potassium Nitrate,5.22,Potassium Nitrate | Ammonium Nitrate | Nitrobarite | Sodium Nitrate | Lecoqite-(Y)
+360,TNT,Sodium Azide,Effenbergerite,Sodium Azide,2.65,Sodium Azide | Parisite-(Ce) | TNT | Wurtzite | Halite
+361,TNT,TNT,Effenbergerite,Sodium Azide,2.56,Sodium Azide | TNT | Parisite-(Ce) | Wurtzite | Melanophlogite
+362,Potassium Nitrate,Potassium Nitrate,Potassium Nitrate,Potassium Nitrate,5.36,Potassium Nitrate | Ammonium Nitrate | Sodium Nitrate | Nitrobarite | Shomiokite-(Y)
+363,Potassium Nitrate,Potassium Nitrate,Potassium Nitrate,Ammonium Nitrate,5.47,Ammonium Nitrate | Potassium Nitrate | Nitrobarite | Sodium Nitrate | Shomiokite-(Y)
+364,Potassium Nitrate,Potassium Nitrate,Ammonium Nitrate,Potassium Nitrate,5.68,Potassium Nitrate | Ammonium Nitrate | Nitrobarite | Sodium Nitrate | Shilovite
+365,Ammonium Nitrate,Ammonium Nitrate,Ammonium Nitrate,Ammonium Nitrate,6.76,Ammonium Nitrate | Potassium Nitrate | Nitrobarite | Shilovite | Gerhardtite
+366,Ammonium Nitrate,Ammonium Nitrate,Ammonium Nitrate,Ammonium Nitrate,6.81,Ammonium Nitrate | Potassium Nitrate | Nitrobarite | Shilovite | Gerhardtite
+367,Potassium Nitrate,Potassium Nitrate,Potassium Nitrate,Potassium Nitrate,5.92,Potassium Nitrate | Ammonium Nitrate | Sodium Nitrate | Nitrobarite | Shomiokite-(Y)
+368,Urea,Urea,Urea,Urea,4.64,Urea | Ethylene Diamine | Wurtzite | Ferrobustamite | Dresserite
+369,Potassium Nitrate,Potassium Nitrate,Potassium Nitrate,Potassium Nitrate,5.64,Potassium Nitrate | Ammonium Nitrate | Lecoqite-(Y) | Shomiokite-(Y) | Sodium Nitrate
+370,Potassium Nitrate,Potassium Nitrate,Potassium Nitrate,Potassium Nitrate,5.65,Potassium Nitrate | Ammonium Nitrate | Shomiokite-(Y) | Sodium Nitrate | Nitrobarite
+371,Potassium Nitrate,Potassium Nitrate,Potassium Nitrate,Potassium Nitrate,5.84,Potassium Nitrate | Ammonium Nitrate | Sodium Nitrate | Nitrobarite | Shomiokite-(Y)
+372,Potassium Nitrate,Potassium Nitrate,Potassium Nitrate,Potassium Nitrate,5.84,Potassium Nitrate | Ammonium Nitrate | Shomiokite-(Y) | Nitrobarite | Sodium Nitrate
+374,Potassium Nitrate,Potassium Nitrate,Ammonium Nitrate,Potassium Nitrate,4.71,Potassium Nitrate | Cerussite | Plumbonacrite | Ammonium Nitrate | Sodium Nitrate
+375,Potassium Nitrate,Potassium Nitrate,Potassium Nitrate,Potassium Nitrate,5.48,Potassium Nitrate | Shomiokite-(Y) | Sodium Nitrate | Cerussite | Nitrobarite
+376,HMX,HMX,HMX,HMX,6.01,HMX | H2O2 | Liebenbergite | Sphalerite | Fluornatromicrolite
+377,HMX,TNT,HMX,HMX,6.04,HMX | Liebenbergite | H2O2 | Sphalerite | Fluornatromicrolite
+378,Sodium Azide,TNT,Effenbergerite,Sodium Azide,2.89,Sodium Azide | TNT | Sphalerite | Fluornatromicrolite | Artesunate
+379,TNT,TNT,Effenbergerite,Sodium Azide,3.86,Sodium Azide | TNT | Ferrobustamite | Dresserite | Wurtzite
+380,TNT,TNT,Effenbergerite,Sodium Azide,3.83,Sodium Azide | TNT | Wurtzite | Ferrobustamite | Dresserite
+381,TNT,TNT,Effenbergerite,Sodium Azide,3.76,Sodium Azide | TNT | Wurtzite | Ferrobustamite | Dresserite
+384,TATB,Urea,Furutobeite,Artesunate,3.34,Artesunate | Wurtzite | H2O2 | Amber | Halite
+385,TATB,Urea,Furutobeite,Wurtzite,2.81,Wurtzite | Halite | Furutobeite | TATB | H2O2
+387,Potassium Nitrate,Potassium Nitrate,Ammonium Nitrate,Ammonium Nitrate,4.39,Ammonium Nitrate | Potassium Nitrate | Shomiokite-(Y) | Lecoqite-(Y) | Sodium Nitrate
+389,Ammonium Nitrate,Ammonium Nitrate,Potassium Nitrate,Potassium Nitrate,4.6,Potassium Nitrate | Ammonium Nitrate | Shomiokite-(Y) | Nitrobarite | Sodium Nitrate
+394,Potassium Nitrate,Ammonium Nitrate,Ammonium Nitrate,Potassium Nitrate,4.3,Potassium Nitrate | Ammonium Nitrate | Shomiokite-(Y) | Cerussite | Plumbonacrite
+396,Ammonium Nitrate,Ammonium Nitrate,Ammonium Nitrate,Ammonium Nitrate,4.73,Ammonium Nitrate | Potassium Nitrate | Shomiokite-(Y) | Nitrobarite | Sodium Nitrate
+397,Potassium Nitrate,Ammonium Nitrate,Ammonium Nitrate,Potassium Nitrate,4.5,Potassium Nitrate | Ammonium Nitrate | Shomiokite-(Y) | Shilovite | Plumbonacrite
+398,Ammonium Nitrate,Potassium Nitrate,Potassium Nitrate,Potassium Nitrate,4.17,Potassium Nitrate | Ammonium Nitrate | Iquiqueite | Sodium Nitrate | Trona
+401,Ammonium Nitrate,Potassium Nitrate,Ammonium Nitrate,Ammonium Nitrate,4.63,Ammonium Nitrate | Potassium Nitrate | Shomiokite-(Y) | Sodium Nitrate | Shilovite
+402,Ammonium Nitrate,Potassium Nitrate,Potassium Nitrate,Ammonium Nitrate,4.75,Ammonium Nitrate | Potassium Nitrate | Shomiokite-(Y) | Sodium Nitrate | Nitrobarite
+404,Potassium Nitrate,Ammonium Nitrate,Potassium Nitrate,Potassium Nitrate,5.25,Potassium Nitrate | Ammonium Nitrate | Nitrobarite | Shilovite | Shomiokite-(Y)
+405,Potassium Nitrate,Ammonium Nitrate,Potassium Nitrate,Potassium Nitrate,4.57,Potassium Nitrate | Ammonium Nitrate | Shomiokite-(Y) | Sodium Nitrate | Nitrobarite
+406,Potassium Nitrate,Ammonium Nitrate,Potassium Nitrate,Potassium Nitrate,4.36,Potassium Nitrate | Shomiokite-(Y) | Ammonium Nitrate | Lecoqite-(Y) | Sodium Nitrate
+409,Potassium Nitrate,Potassium Nitrate,Potassium Nitrate,Potassium Nitrate,4.38,Potassium Nitrate | Shomiokite-(Y) | Sodium Nitrate | Ammonium Nitrate | Nitrobarite
+410,Potassium Nitrate,Ammonium Nitrate,Ammonium Nitrate,Potassium Nitrate,3.77,Potassium Nitrate | Cerussite | Plumbonacrite | Ammonium Nitrate | Trona
+420,Urea,Urea,Wurtzite,Urea,4.34,Urea | Ethylene Diamine | Wurtzite | Clinohedrite | Ferrobustamite
+422,Urea,Urea,Urea,Urea,3.99,Urea | Ethylene Diamine | Dresserite | Ferrobustamite | Sphalerite
+425,Urea,Urea,Urea,Urea,4.44,Urea | Ethylene Diamine | Wurtzite | Clinohedrite | Furutobeite
+426,Urea,Urea,Urea,Urea,4.59,Urea | Ethylene Diamine | Wurtzite | Clinohedrite | Ferrobustamite
+427,Urea,Urea,Urea,Urea,4.58,Urea | Ethylene Diamine | Wurtzite | Clinohedrite | Furutobeite
+429,Urea,Urea,Urea,Urea,4.93,Urea | Anhydrite | Gypsum | Wurtzite | Despujolsite
+430,Urea,Urea,Urea,Urea,4.99,Urea | Anhydrite | Wurtzite | Gypsum | Clinohedrite
+431,Urea,Urea,Urea,Urea,5.02,Urea | Anhydrite | Gypsum | Wurtzite | Despujolsite
+433,Urea,Urea,Urea,Urea,4.39,Urea | Ethylene Diamine | Wurtzite | Clinohedrite | Furutobeite
+434,Urea,Urea,Urea,Urea,4.96,Urea | Ethylene Diamine | Wurtzite | Clinohedrite | Ferrobustamite
+436,Urea,Urea,Urea,Urea,4.61,Urea | Ethylene Diamine | Wurtzite | Clinohedrite | Ferrobustamite
+438,Urea,Urea,Urea,Urea,4.18,Urea | Ethylene Diamine | Dresserite | Ferrobustamite | Wurtzite
+439,Urea,Urea,Urea,Urea,4.11,Urea | Ethylene Diamine | Dresserite | Ferrobustamite | Sphalerite
+440,Urea,Urea,Urea,Urea,3.9,Urea | Ethylene Diamine | Sphalerite | Dresserite | Ferrobustamite
+441,Urea,Urea,Urea,Urea,3.65,Urea | Ethylene Diamine | Anhydrite | Gypsum | Sphalerite
+442,Urea,Urea,Urea,Urea,3.88,Urea | Ethylene Diamine | Sphalerite | Wurtzite | Dresserite
+443,Urea,Urea,Urea,Urea,3.94,Urea | Ethylene Diamine | Gypsum | Sphalerite | Dresserite
+444,Urea,Urea,Urea,Urea,4.2,Urea | Ethylene Diamine | Anhydrite | Gypsum | Wurtzite
+446,Urea,Urea,Urea,Urea,4.38,Urea | Ethylene Diamine | Wurtzite | Furutobeite | Ferrobustamite
+447,Urea,Urea,Urea,Urea,4.42,Urea | Ethylene Diamine | Wurtzite | Anhydrite | Furutobeite
+448,Urea,Urea,Urea,Urea,4.31,Urea | Ethylene Diamine | Wurtzite | Clinohedrite | Anhydrite
+449,Urea,Urea,Urea,Urea,4.45,Urea | Ethylene Diamine | Wurtzite | Ferrobustamite | Bromargyrite
+451,Urea,Urea,Urea,Urea,4.41,Urea | Ethylene Diamine | Wurtzite | Gypsum | Furutobeite
+452,Urea,Urea,Urea,Urea,4.32,Urea | Ethylene Diamine | Wurtzite | Clinohedrite | Ferrobustamite
+453,Urea,Urea,Urea,Urea,4.52,Urea | Ethylene Diamine | Wurtzite | Clinohedrite | Ferrobustamite
+455,Urea,Urea,Urea,Urea,3.81,Urea | Ethylene Diamine | Halite | Wurtzite | Anhydrite
+456,Urea,Urea,Urea,Urea,3.81,Urea | Ethylene Diamine | Halite | Wurtzite | Anhydrite
+460,Urea,Urea,Urea,Urea,4.28,Urea | Ethylene Diamine | Wurtzite | Clinohedrite | Ferrobustamite
+461,Urea,Urea,Urea,Urea,4.4,Urea | Ethylene Diamine | Wurtzite | Clinohedrite | Ferrobustamite
+462,Urea,Urea,Urea,Urea,4.04,Urea | Ethylene Diamine | Kulanite | Halite | Wurtzite
+469,Urea,Urea,Urea,Urea,5.07,Urea | Anhydrite | Gypsum | Despujolsite | β-carotene
+472,Urea,Urea,Urea,Urea,4.11,Urea | Ethylene Diamine | Wurtzite | Gypsum | Furutobeite
+473,Urea,Urea,Urea,Urea,4.55,Urea | Ethylene Diamine | Wurtzite | Anhydrite | Gypsum
+474,Urea,Urea,Urea,Urea,4.38,Urea | Ethylene Diamine | Wurtzite | Clinohedrite | Gypsum
+475,Urea,Urea,Urea,Urea,4.16,Urea | Ethylene Diamine | β-carotene | Wurtzite | Clinohedrite
+476,Urea,Urea,Urea,Urea,4.48,Urea | Ethylene Diamine | Wurtzite | Gypsum | β-carotene
+480,Urea,Urea,Wurtzite,Urea,4.75,Urea | Ethylene Diamine | Wurtzite | Clinohedrite | Ferrobustamite
+481,Urea,Urea,Wurtzite,Urea,4.33,Urea | Ethylene Diamine | Wurtzite | Clinohedrite | Ferrobustamite
+483,Urea,Urea,Urea,Urea,4.01,Urea | Ethylene Diamine | Halite | Wurtzite | Furutobeite
+484,Urea,Urea,Urea,Urea,4.28,Urea | Ethylene Diamine | Halite | Wurtzite | Furutobeite
+485,Urea,Urea,Urea,Urea,4.12,Urea | Ethylene Diamine | Halite | Wurtzite | Furutobeite
+489,Urea,Urea,Urea,Urea,5.41,Urea | Anhydrite | Gypsum | Despujolsite | Wurtzite
+491,Urea,Urea,Urea,Urea,4.24,Urea | Ethylene Diamine | Halite | Wurtzite | Anhydrite
+492,Urea,Urea,Urea,Urea,4.21,Urea | Ethylene Diamine | Halite | Anhydrite | Wurtzite
+493,Urea,Urea,Urea,Urea,4.38,Urea | Ethylene Diamine | Gypsum | Despujolsite | β-carotene
+495,Urea,Urea,Urea,Urea,5.42,Urea | Anhydrite | Gypsum | Despujolsite | β-carotene
+496,Urea,Urea,Urea,Urea,5.78,Urea | Despujolsite | Gypsum | Anhydrite | Leightonite
+497,Urea,Urea,Urea,Urea,5.58,Urea | Despujolsite | Gypsum | Anhydrite | Gorgeyite
+498,Urea,Urea,Urea,Urea,5.72,Urea | Despujolsite | Gypsum | Anhydrite | Beryllonite
+499,Urea,Urea,Urea,Urea,5.49,Urea | Despujolsite | Anhydrite | Gypsum | β-carotene
+500,Urea,Urea,Urea,Urea,5.37,Urea | Anhydrite | Despujolsite | Gypsum | β-carotene
+501,Urea,Urea,Urea,Urea,5.54,Urea | Despujolsite | Anhydrite | Gypsum | β-carotene
+502,Urea,Urea,Urea,Urea,5.16,Urea | Anhydrite | Gypsum | Despujolsite | Kalicinite
+503,Urea,Urea,Urea,Urea,5.22,Urea | Anhydrite | Despujolsite | Gypsum | Leightonite
+505,Urea,Urea,Wurtzite,Urea,4.23,Urea | Ethylene Diamine | Wurtzite | Clausthalite | Ferrobustamite
+506,H2O2,TATB,Furutobeite,Clausthalite,3.21,Clausthalite | Furutobeite | Wurtzite | Halite | Bromargyrite
+524,Ethylene Diamine,Urea,Wurtzite,Urea,5.02,Urea | Wurtzite | Clinohedrite | Despujolsite | Amber
+525,Urea,Ethylene Diamine,Wurtzite,Urea,5.21,Urea | Ethylene Diamine | Wurtzite | Clinohedrite | Ferrobustamite
+527,Urea,Urea,Urea,Urea,5.94,Urea | Anhydrite | Despujolsite | Gypsum | Wurtzite
+529,Urea,Urea,Urea,Urea,5.59,Urea | Ethylene Diamine | Wurtzite | Clinohedrite | Furutobeite
+530,Urea,Urea,Urea,Urea,5.61,Urea | Ethylene Diamine | Wurtzite | Furutobeite | Clinohedrite
+531,Urea,Urea,Urea,Urea,5.4,Urea | Ethylene Diamine | Wurtzite | Ferrobustamite | Furutobeite
+532,Urea,Urea,Urea,Urea,5.5,Urea | Ethylene Diamine | Wurtzite | Furutobeite | Clinohedrite
+533,Urea,Urea,Urea,Urea,5.42,Urea | Ethylene Diamine | Wurtzite | Furutobeite | Clinohedrite
+534,Urea,Urea,Urea,Urea,5.39,Urea | Ethylene Diamine | Wurtzite | Furutobeite | Clinohedrite
+535,Urea,Urea,Urea,Urea,5.42,Urea | Ethylene Diamine | Wurtzite | Furutobeite | Ferrobustamite
+536,Urea,Urea,Urea,Urea,5.53,Urea | Ethylene Diamine | Wurtzite | Clinohedrite | Ferrobustamite
+537,Urea,Urea,Urea,Urea,5.33,Urea | Ethylene Diamine | Wurtzite | Clinohedrite | Furutobeite
+538,Urea,Urea,Urea,Urea,5.24,Urea | Ethylene Diamine | Wurtzite | Furutobeite | Clinohedrite
+539,Urea,Urea,Urea,Urea,5.27,Urea | Ethylene Diamine | Wurtzite | Furutobeite | Clinohedrite
+540,Urea,Urea,Urea,Urea,5.27,Urea | Ethylene Diamine | Wurtzite | Furutobeite | Ferrobustamite
+541,Urea,Urea,Urea,Urea,5.25,Urea | Ethylene Diamine | Wurtzite | Furutobeite | Clinohedrite
+542,Urea,Urea,Urea,Urea,5.27,Urea | Ethylene Diamine | Wurtzite | Furutobeite | Clinohedrite
+543,Urea,Urea,Urea,Urea,5.22,Urea | Ethylene Diamine | Wurtzite | Ferrobustamite | Clinohedrite
+544,Urea,Urea,Urea,Urea,5.25,Urea | Ethylene Diamine | Wurtzite | Furutobeite | Ferrobustamite
+545,Urea,Urea,Urea,Urea,5.19,Urea | Ethylene Diamine | Wurtzite | Furutobeite | Clinohedrite
+546,Urea,Urea,Urea,Urea,5.07,Urea | Ethylene Diamine | Gypsum | Anhydrite | Despujolsite
+547,Urea,Urea,Urea,Urea,5.18,Urea | Ethylene Diamine | Wurtzite | Ferrobustamite | Furutobeite
+548,Urea,Urea,Urea,Urea,5.36,Urea | Ethylene Diamine | Wurtzite | Ferrobustamite | Furutobeite
+549,Urea,Urea,Urea,Urea,5.25,Urea | Ethylene Diamine | Wurtzite | Furutobeite | Clinohedrite
+550,Urea,Urea,Urea,Urea,5.24,Urea | Ethylene Diamine | Despujolsite | Gypsum | Wurtzite
+551,Urea,Urea,Urea,Urea,5.18,Urea | Ethylene Diamine | Gypsum | Despujolsite | Anhydrite
+552,Urea,Urea,Urea,Urea,5.38,Urea | Ethylene Diamine | Wurtzite | Gypsum | Despujolsite
+553,Urea,Urea,Urea,Urea,5.38,Urea | Ethylene Diamine | Wurtzite | Gypsum | Furutobeite
+554,Urea,Urea,Urea,Urea,5.45,Urea | Ethylene Diamine | Wurtzite | Gypsum | Furutobeite
+555,Urea,Urea,Urea,Urea,5.45,Urea | Ethylene Diamine | Wurtzite | Despujolsite | Gypsum
+556,Urea,Urea,Urea,Urea,5.53,Urea | Ethylene Diamine | Wurtzite | Furutobeite | Anhydrite
+557,Urea,Urea,Urea,Urea,5.34,Urea | Ethylene Diamine | Wurtzite | Furutobeite | Gypsum
+558,Urea,Urea,Urea,Urea,5.35,Urea | Ethylene Diamine | Wurtzite | Gypsum | Anhydrite
+559,Urea,Urea,Urea,Urea,5.38,Urea | Ethylene Diamine | Wurtzite | Anhydrite | Gypsum
+560,Urea,Urea,Urea,Urea,5.44,Urea | Ethylene Diamine | Wurtzite | Gypsum | Anhydrite
+561,Urea,Urea,Urea,Urea,5.38,Urea | Ethylene Diamine | Wurtzite | Gypsum | Furutobeite
+562,Urea,Urea,Urea,Urea,5.42,Urea | Ethylene Diamine | Wurtzite | Furutobeite | Clinohedrite
+563,Urea,Urea,Urea,Urea,5.44,Urea | Ethylene Diamine | Wurtzite | Despujolsite | Furutobeite
+564,Urea,Urea,Urea,Urea,5.39,Urea | Ethylene Diamine | Wurtzite | Despujolsite | Furutobeite
+565,Urea,Urea,Urea,Urea,5.46,Urea | Ethylene Diamine | Wurtzite | Furutobeite | Ferrobustamite
+566,Urea,Urea,Urea,Urea,5.42,Urea | Ethylene Diamine | Wurtzite | Ferrobustamite | Furutobeite
+567,Urea,Urea,Urea,Urea,5.43,Urea | Ethylene Diamine | Wurtzite | Gypsum | Furutobeite
+569,Urea,Urea,Urea,Urea,4.54,Urea | Ethylene Diamine | Anhydrite | Gypsum | Halite
+570,Urea,Urea,Urea,Urea,4.57,Urea | Ethylene Diamine | Anhydrite | Gypsum | Halite
+571,Urea,Urea,Urea,Urea,4.57,Urea | Ethylene Diamine | Anhydrite | Gypsum | Halite
+572,Urea,Urea,Urea,Urea,4.52,Urea | Ethylene Diamine | Anhydrite | Gypsum | Halite
+573,Urea,Urea,Urea,Urea,4.48,Urea | Ethylene Diamine | Anhydrite | Gypsum | Halite
+574,Urea,Urea,Urea,Urea,4.46,Urea | Ethylene Diamine | Anhydrite | Gypsum | β-carotene
+575,Urea,Urea,Urea,Urea,4.19,Urea | Ethylene Diamine | Anhydrite | Gypsum | β-carotene
+576,Urea,Urea,Urea,Urea,4.12,Urea | Ethylene Diamine | Anhydrite | Gypsum | β-carotene
+577,Urea,Urea,Urea,Urea,4.52,Urea | Ethylene Diamine | Anhydrite | Gypsum | Halite
+578,Urea,Urea,Urea,Urea,4.4,Urea | Ethylene Diamine | Anhydrite | Gypsum | Halite
+579,Urea,Urea,Urea,Urea,4.31,Urea | Ethylene Diamine | Gypsum | Anhydrite | β-carotene
+580,Urea,Urea,Urea,Urea,4.17,Urea | Ethylene Diamine | Anhydrite | Gypsum | β-carotene
+581,Urea,Urea,Urea,Urea,4.44,Urea | Ethylene Diamine | Anhydrite | Gypsum | β-carotene
+582,Urea,Urea,Urea,Urea,4.35,Urea | Ethylene Diamine | Anhydrite | Gypsum | β-carotene
+583,Urea,Urea,Urea,Urea,4.39,Urea | Ethylene Diamine | Anhydrite | Gypsum | Halite
+584,Urea,Urea,Urea,Urea,4.38,Urea | Ethylene Diamine | Gypsum | Anhydrite | β-carotene
+586,Urea,Urea,Urea,Urea,4.31,Urea | Ethylene Diamine | Wurtzite | Ferrobustamite | Clinohedrite
+587,Urea,Urea,Urea,Urea,4.29,Urea | Ethylene Diamine | Wurtzite | Ferrobustamite | Clinohedrite
+588,Urea,Urea,Urea,Urea,4.79,Urea | Ethylene Diamine | Wurtzite | Ferrobustamite | Clinohedrite
+589,Urea,Urea,Urea,Urea,4.8,Urea | Ethylene Diamine | Wurtzite | Ferrobustamite | Clinohedrite
+590,Urea,Urea,Urea,Urea,5.04,Urea | Ethylene Diamine | Wurtzite | Ferrobustamite | Clinohedrite
+591,Urea,Urea,Urea,Urea,4.86,Urea | Ethylene Diamine | Wurtzite | Ferrobustamite | Clinohedrite
+603,Hexamine,Hexamine,Hexamine,Hexamine,8.27,Hexamine | Potassium Nitrate | Moissanite | Cerussite | Cyclohexane
+604,Hexamine,Hexamine,Hexamine,Hexamine,8.38,Hexamine | Potassium Nitrate | Moissanite | Cyclohexane | Cerussite
+605,Sodium Azide,Sodium Azide,Effenbergerite,Sodium Azide,3.61,Sodium Azide | Artesunate | Sphalerite | Fluornatromicrolite | Dresserite
+606,Sodium Azide,Sodium Azide,Effenbergerite,Sodium Azide,3.65,Sodium Azide | Artesunate | Sphalerite | Fluornatromicrolite | Dresserite
+607,RDX,Urea,RDX,RDX,6.55,RDX | Rutherfordine | Powellite | Phenakite | Ethylene Diamine
+608,RDX,PETN,RDX,RDX,6.45,RDX | Rutherfordine | Powellite | Phenakite | Ethylene Diamine
+609,PETN,Urea,Wurtzite,PETN,2.71,PETN | Wurtzite | Sphalerite | Furutobeite | Ferrobustamite
+610,PETN,Urea,Wurtzite,PETN,2.93,PETN | Wurtzite | Sphalerite | Ethylene Diamine | H2O2
+611,Sodium Azide,Sodium Azide,Effenbergerite,Sodium Azide,3.15,Sodium Azide | Melanophlogite | Furutobeite | Diamond | Amber
+612,Sodium Azide,Sodium Azide,Effenbergerite,Sodium Azide,2.86,Sodium Azide | Melanophlogite | Diamond | Furutobeite | Ferrobustamite
+613,Hexamine,Hexamine,Hexamine,Hexamine,8.16,Hexamine | Potassium Nitrate | Cancrinite | Moissanite | Salesite
+614,Hexamine,Hexamine,Hexamine,Hexamine,8.4,Hexamine | Potassium Nitrate | Cancrinite | Moissanite | Sulfoborite
+615,Potassium Chlorate,Potassium Chlorate,Sodium Chlorate,Potassium Chlorate,4.52,Potassium Chlorate | Sodium Chlorate | Scotlandite | Sarcopside | Gravegliaite
+616,Potassium Chlorate,Potassium Chlorate,Sodium Chlorate,Potassium Chlorate,4.42,Potassium Chlorate | Sodium Chlorate | Scotlandite | Sarcopside | Gravegliaite
+617,TATB,TATB,TATB,TATB,5.88,TATB | H2O2 | Phenakite | Chromatite | Volborthite
+618,TATB,TATB,TATB,TATB,5.45,TATB | H2O2 | Chromatite | Volborthite | Phenakite
+619,PNBA,PNBA,PNBA,PNBA,6.81,PNBA | Nitrobenzene | Potassium Nitrate | Cerussite | TNB
+620,PNBA,PNBA,PNBA,PNBA,6.75,PNBA | Nitrobenzene | Potassium Nitrate | Cerussite | TNB
+621,Sodium Nitrate,Sodium Nitrate,Sodium Nitrate,Sodium Nitrate,4.66,Sodium Nitrate | Lecoqite-(Y) | Potassium Carbonate | Pirssonite | Gaylussite
+622,Sodium Nitrate,Sodium Nitrate,Sodium Nitrate,Sodium Nitrate,4.74,Sodium Nitrate | Potassium Carbonate | Lecoqite-(Y) | Pirssonite | Gaylussite
+623,Sodium Nitrate,Sodium Nitrate,Sodium Nitrate,Sodium Nitrate,4.76,Sodium Nitrate | Potassium Carbonate | Lecoqite-(Y) | Pirssonite | Gaylussite
+624,PNBA,Ammonium Nitrate,Ammonium Nitrate,Ammonium Nitrate,5.23,Ammonium Nitrate | PNBA | Nitrobenzene | Potassium Nitrate | Nitrobarite
+625,PNBA,Ammonium Nitrate,Ammonium Nitrate,PNBA,5.26,PNBA | Ammonium Nitrate | Nitrobenzene | Potassium Nitrate | Nitrobarite
+626,Ammonium Nitrate,PNBA,PNBA,PNBA,4.83,PNBA | Potassium Nitrate | Nitrobarite | Rouaite | Cerussite
+627,Sodium Nitrate,Sodium Nitrate,Sodium Nitrate,Sodium Nitrate,4.96,Sodium Nitrate | Potassium Carbonate | Lecoqite-(Y) | Gaylussite | Pirssonite
+628,Sodium Nitrate,Sodium Nitrate,Sodium Nitrate,Sodium Nitrate,4.93,Sodium Nitrate | Potassium Carbonate | Lecoqite-(Y) | Gaylussite | Pirssonite
+629,PNBA,PNBA,PNBA,PNBA,7.12,PNBA | Nitrobenzene | Ammonium Nitrate | Potassium Nitrate | Cerussite
+630,PNBA,PNBA,PNBA,PNBA,7.03,PNBA | Nitrobenzene | Ammonium Nitrate | Potassium Nitrate | Cerussite
+631,TATB,TATB,TATB,TATB,7.01,TATB | H2O2 | Volborthite | Glaucodot | Furutobeite
+632,Ammonium Nitrate,Ethylene Diamine,Potassium Nitrate,Ammonium Nitrate,4.66,Ammonium Nitrate | Potassium Nitrate | Nitrobarite | Gerhardtite | Shilovite
+640,PNBA,PNBA,PNBA,PNBA,6.57,PNBA | organic_37 | organic_103 | Ringwoodite | Nitrobenzene
+642,Naphthalene,Naphthalene,Naphthalene,Naphthalene,3.58,Naphthalene | Toluene | d-(+)-xylose | Chlormayenite | Ammonioalunite
+643,Naphthalene,Naphthalene,Naphthalene,Naphthalene,7.3,Naphthalene | Toluene | Anhydrite | lactalbumin | Avogadrite
+644,PNBA,PNBA,PNBA,PNBA,8.6,PNBA | Nitrobenzene | organic_37 | organic_103 | Ringwoodite
+645,PNBA,PNBA,PNBA,PNBA,8.34,PNBA | Nitrobenzene | organic_103 | organic_37 | Ringwoodite
+646,PNBA,PNBA,PNBA,PNBA,7.75,PNBA | Nitrobenzene | organic_103 | organic_37 | Ringwoodite
+647,Naphthalene,Naphthalene,Naphthalene,Naphthalene,7.06,Naphthalene | Toluene | Anhydrite | Urea | Avogadrite
+648,Naphthalene,Naphthalene,Naphthalene,Naphthalene,7.52,Naphthalene | Toluene | Anhydrite | Urea | Ethylene Diamine
+649,PNBA,PNBA,PNBA,PNBA,7.84,PNBA | Nitrobenzene | organic_37 | organic_103 | Ringwoodite
+653,PNBA,PNBA,PNBA,PNBA,6.93,PNBA | Nitrobenzene | organic_37 | Ringwoodite | organic_103
+654,PNBA,PNBA,PNBA,PNBA,7.25,PNBA | Nitrobenzene | organic_37 | organic_103 | Ringwoodite
+655,PNBA,PNBA,PNBA,PNBA,7.25,PNBA | Nitrobenzene | organic_37 | organic_103 | Ringwoodite
+656,PNBA,PNBA,PNBA,PNBA,7.3,PNBA | Nitrobenzene | organic_37 | organic_103 | Ringwoodite
+657,PNBA,PNBA,PNBA,PNBA,7.13,PNBA | Nitrobenzene | organic_37 | Ringwoodite | organic_103
+658,PNBA,PNBA,PNBA,PNBA,7.21,PNBA | Nitrobenzene | organic_37 | organic_103 | Ringwoodite
+659,PNBA,PNBA,PNBA,PNBA,7.29,PNBA | Nitrobenzene | organic_37 | organic_103 | Ringwoodite
+660,PNBA,PNBA,PNBA,PNBA,7.24,PNBA | Nitrobenzene | organic_37 | organic_103 | Ringwoodite
+661,PNBA,PNBA,PNBA,PNBA,7.24,PNBA | Nitrobenzene | organic_37 | organic_103 | Ringwoodite
+662,PNBA,PNBA,PNBA,PNBA,7.26,PNBA | Nitrobenzene | organic_37 | organic_103 | Ringwoodite
+663,PNBA,PNBA,PNBA,PNBA,7.24,PNBA | Nitrobenzene | organic_37 | organic_103 | Ringwoodite
+664,Naphthalene,Naphthalene,Naphthalene,Naphthalene,7.25,Naphthalene | Toluene | Sulfoborite | Anhydrite | organic_257
+665,Naphthalene,Naphthalene,Naphthalene,Naphthalene,6.79,Naphthalene | Sulfoborite | Toluene | lactalbumin | organic_257
+666,Naphthalene,Naphthalene,Naphthalene,Naphthalene,7.49,Naphthalene | Toluene | lactalbumin | Hexamine | Sulfoborite
+667,Naphthalene,Naphthalene,Naphthalene,Naphthalene,7.4,Naphthalene | Toluene | lactalbumin | Hexamine | α-chymotrypsinogen a (type ii)
+668,Naphthalene,Naphthalene,Naphthalene,Naphthalene,8.03,Naphthalene | Toluene | lactalbumin | α-chymotrypsinogen a (type ii) | Anhydrite
+670,Sodium Azide,Cyclohexane,Diamond,Diamond,3.66,Diamond | Parisite-(Ce) | Burbankite | Petersenite-(Ce) | Parisite-(La)
+674,Ethylene Diamine,Ethyl Alcohol,Wurtzite,Ethyl Alcohol,6.14,Ethyl Alcohol | Wurtzite | Furutobeite | Clinohedrite | Clausthalite
+675,RDX,RDX,RDX,RDX,7.67,RDX | Powellite | Volborthite | Chabazite-K | Furutobeite
+676,RDX,RDX,RDX,RDX,7.82,RDX | Powellite | Chabazite-K | Glaucodot | Furutobeite
+677,TNB,TNB,TNB,TNB,8.42,TNB | Mbobomkulite | PNBA | Fluorellestadite | β-carotene
+678,TNB,TNB,TNB,TNB,8.48,TNB | Mbobomkulite | PNBA | Fluorellestadite | Uranophane
+679,TNB,TNB,TNB,TNB,8.73,TNB | Mbobomkulite | Fluorellestadite | PNBA | Uranophane
+680,H2O2,Ferberite,Rutherfordine,Tantalite-(Mn),4.63,Tantalite-(Mn) | Rutherfordine | Columbite-(Fe) | Powellite | Chromatite
+681,H2O2,Ethylene Diamine,Rutherfordine,Rutherfordine,5.29,Rutherfordine | Tantalite-(Mn) | Chromatite | Raspite | Columbite-(Fe)
+685,TATB,TATB,TATB,TATB,8.1,TATB | H2O2 | Phenakite | Glaucodot | Tantalite-(Mn)
+686,H2O2,TATB,TATB,TATB,5.31,TATB | H2O2 | Glaucodot | Chromatite | Gratonite
+687,TATB,TATB,TATB,TATB,8.61,TATB | H2O2 | Uvarovite | Phenakite | Volborthite
+688,TATB,TATB,TATB,TATB,8.55,TATB | H2O2 | Phenakite | Glaucodot | Uvarovite
+689,H2O2,TATB,TATB,TATB,6.37,TATB | H2O2 | Ammonioalunite | Volborthite | Phenakite
+690,TATB,TATB,TATB,TATB,8.01,TATB | H2O2 | Phenakite | Chromatite | Volborthite
+691,TNT,TNT,Effenbergerite,TNT,2.84,TNT | Sphalerite | Fluornatromicrolite | Brownmillerite | Dresserite
+692,Naphthalene,Naphthalene,Naphthalene,Naphthalene,6.59,Naphthalene | Toluene | lactalbumin | Anhydrite | organic_257
+693,Ethylene Diamine,H2O2,Ethyl Alcohol,H2O2,3.06,H2O2 | Chromatite | Szenicsite | Germanite | Nickeline
+694,H2O2,Ethylene Diamine,Ethylene Diamine,Ethyl Alcohol,2.12,Ethyl Alcohol | myristic acid | Ethylene Diamine | Rutherfordine | palmitic acid
+699,Acetone,Acetone,Acetone,Acetone,4.2,Acetone | Moissanite | Armangite | Pseudowollastonite | Chabazite-K
+700,Acetone,Acetone,Acetone,Acetone,4.21,Acetone | Moissanite | Boltwoodite | Parisite-(Ce) | Devilline
+704,Acetone,Acetone,Acetone,Acetone,3.32,Acetone | Moissanite | Boltwoodite | Orlandiite | Roxbyite
+705,Acetone,Acetone,Acetone,Acetone,3.69,Acetone | Moissanite | Boltwoodite | Vandenbrandeite | Petalite
+707,Acetone,Acetone,Acetone,Acetone,4.13,Acetone | Moissanite | Vandenbrandeite | Franciscanite | Boltwoodite
+709,Acetone,Acetone,Acetone,Acetone,5.67,Acetone | Moissanite | Tridymite | Avogadrite | Opal
+710,Acetone,Acetone,Acetone,Acetone,5.59,Acetone | Moissanite | Tridymite | Orlandiite | Devilline
+711,Acetone,Acetone,Acetone,Acetone,6.25,Acetone | Moissanite | Tridymite | Molybdomenite | Orlandiite
+712,Acetone,Acetone,Acetone,Acetone,5.91,Acetone | Moissanite | Tridymite | Orlandiite | Opal
+713,Acetone,Acetone,Acetone,Acetone,6.27,Acetone | Moissanite | Tridymite | Opal | Devilline
+714,Acetone,Acetone,Acetone,Acetone,6.23,Acetone | Moissanite | Tridymite | Avogadrite | Devilline
+715,Acetone,Acetone,Acetone,Acetone,6.47,Acetone | Moissanite | Tridymite | Orlandiite | Opal
+716,Acetone,Acetone,Acetone,Acetone,7.01,Acetone | Moissanite | Tridymite | Avogadrite | Opal
+717,Acetone,Acetone,Acetone,Acetone,6.17,Acetone | Moissanite | Tridymite | Orlandiite | Opal
+718,RDX,RDX,RDX,RDX,7.41,RDX | Powellite | Volborthite | Glaucodot | Furutobeite
+719,RDX,RDX,RDX,RDX,6.93,RDX | Powellite | Volborthite | Glaucodot | Greenockite
+720,RDX,RDX,RDX,RDX,6.72,RDX | Powellite | Volborthite | Furutobeite | Lead
+721,TNB,TNB,TNB,TNB,8.8,TNB | PNBA | Fluorellestadite | Mbobomkulite | organic_113
+732,PNBA,organic_127,PNBA,PNBA,3.17,PNBA | Northupite | Nitrobenzene | Isoferroplatinum | TNB
+733,PNBA,organic_19,PNBA,PNBA,1.89,PNBA | Raspite | Rutherfordine | TNB | Tantalite-(Mn)
+734,TNT,TNT,Effenbergerite,TNT,3.32,TNT | Brownmillerite | Sphalerite | Fluornatromicrolite | Dresserite
+735,TNT,TNT,Effenbergerite,TNT,3.21,TNT | Brownmillerite | Sphalerite | Fluornatromicrolite | Dresserite
+740,Ammonium Nitrate,Ammonium Nitrate,Potassium Nitrate,Potassium Nitrate,6.18,Potassium Nitrate | Ammonium Nitrate | Nitrobarite | Shilovite | Cerussite
+742,Ammonium Nitrate,Ammonium Nitrate,Potassium Nitrate,Potassium Nitrate,6.64,Potassium Nitrate | Ammonium Nitrate | Shilovite | Nitrobarite | Cerussite
+744,Ammonium Nitrate,Ammonium Nitrate,Potassium Nitrate,Potassium Nitrate,6.41,Potassium Nitrate | Ammonium Nitrate | Shilovite | Nitrobarite | Cerussite
+745,Ammonium Nitrate,Ammonium Nitrate,Ammonium Nitrate,Potassium Nitrate,5.27,Potassium Nitrate | Ammonium Nitrate | Shilovite | Nitrobarite | Shomiokite-(Y)
+748,Ammonium Nitrate,Ammonium Nitrate,Ammonium Nitrate,Potassium Nitrate,5.73,Potassium Nitrate | Ammonium Nitrate | Nitrobarite | Shilovite | Shomiokite-(Y)
+750,Naphthalene,Naphthalene,Naphthalene,Naphthalene,7.34,Naphthalene | lactalbumin | Clinoatacamite | d-(+)-xylose | Toluene
+751,Naphthalene,Naphthalene,Naphthalene,Naphthalene,7.54,Naphthalene | lactalbumin | d-(+)-xylose | Clinoatacamite | Toluene
+752,Naphthalene,Naphthalene,Naphthalene,Naphthalene,7.68,Naphthalene | lactalbumin | d-(+)-xylose | Toluene | α-chymotrypsinogen a (type ii)
